@@ -12,7 +12,7 @@ int main()
         if(j==5)
         {
             j=0;
-            cout<<"}{";
+            cout<<"},{";
         }
         else{cout<<',';}
     }
